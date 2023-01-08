@@ -1,9 +1,9 @@
 🤖*bzz* *bzz*🤖
 
-:dvd:--Mission: Become a Fullstack web developer--:dvd:
+*--Mission: Become a Fullstack web developer--*
 
-:dvd:--Location: "Develhope" School--:dvd:
+*--Location: "Develhope" School--*
 
-:dvd:--Mission-status: in progress...--:dvd:
+*--Mission-status: in progress...--*
 
 🤖*bzz* *bzz*🤖

@@ -1,9 +1,9 @@
 🤖*bzz* *bzz*🤖
 
-*--Mission: Become a Fullstack web developer--*
+*---Mission: Become a Fullstack web developer---*
 
-*--Location: "Develhope" School--*
+*---Location: "Develhope" School---*
 
-*--Mission-status: in progress...--*
+*---Mission-status: in progress...---*
 
 🤖*bzz* *bzz*🤖
